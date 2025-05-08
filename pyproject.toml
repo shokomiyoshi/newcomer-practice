@@ -55,4 +55,4 @@ dynamic = ["name", "version"]
 packages = ["pack_test"]
 
 [project.scripts]
-kadai_test1 = "pack_test.test1:main"
+kadaie_1 = "pack_test.kadaiE:kadaie_1"
